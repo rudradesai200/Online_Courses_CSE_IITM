@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/Online_Courses_CSE_IITM/"
 languageCode = "en-us"
 title = "IIT Madras CSE Online Courses"
 themesDir = "themes"
