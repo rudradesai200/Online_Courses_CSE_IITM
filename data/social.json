@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "IITM-Instagram",
+        "link": "https://www.instagram.com/reachiitm/",
+        "image": "images/social/instagram_old.svg"
+    },
+    {
+        "name": "CSE-IITM",
+        "link": "http://cse.iitm.ac.in",
+        "image": "images/social/home.svg"
+    }
+]
