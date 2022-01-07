@@ -1,49 +1,39 @@
 ---
 title: "Programming and Data Structures"
-date: 2018-11-28T15:15:34+10:00
+date: 2022-01-07T09:42:34+10:00
 featured: true
 draft: false
 weight: 4
 ---
 
-This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
+The objective of the course is to teach programming (with an emphasis on problem solving) and introduce elementary data structures. 
+
 
 # Objectives
-The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.
+The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. The student should, at a rudimentary level, be able to prove correctness (loop invariants, conditioning, etc) and analyze efficiency (using the `O' notation).
 
 # Important Links
-- [Youtube Playlist]()
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PL54i8TI-dREbzNcbJUMlVR86T3CZE2EXW)
 - [Online Quiz]()
 - [HackerRank Contest - 1]()
 - [HackerRank Contest - 2]()
 
 # Course Contents
-The [content of this course](http://www.cse.iitm.ac.in/course_details.php?arg=MzM=) can be viewed in four different threads each telling a different story of the same material. The first one is based on the design paradigms of algorithms, the second one based on task of choosing the right data structure, the third one based on the type of analysis (like worst case, amortized etc) that one would like to do and the fourth one based on the domain from which the algorithmic problems come from.
-
-We will follow the first one and describe the thread relates to the other views too, during the course. Here is the outline, based on this view.
-
-## Introduction and Review of Basics (5 Lectures, 1 Tutorial)
-Algorithms, Programs, Correctness, Efficiency. The major challenges. A quick recap of the basics. Asymptotic notation, Big O, Theta, Omega, little o, Recurrence relations, Master theorem. Algorithmic upper bounds, lower bounds, adversarial arguments.
-
-## Divide and Conquer (5 Lectures, 1 Tutorial)
-Simple examples of Divide and Conquer Technique. Analysis. Sorting Algorithms, Lower Bounds. Median in Linear time. Maximum Sub-array and Closest Pair of points. Decrease and Conquer variants.
-
-## Greedy Technique (10 Lectures, 3 Tutorials)
-Minimum Spanning Tree problem, Prims and Kruskals algorithms. Improving Kruskals algorithm using Union-Find data structure (log*(n) analysis). Splay Trees amortized analysis, Shortest Paths in Graphs, quick recall of BFS as shortest paths for unweighted graphs, Dijkstra’s algorithm, Improving Dijsktra’s algorithm with Fibonacci heaps.
-
-## Dynamic Programming (12 Lectures, 3 Tutorials) :
-Bellman Ford Algorithm. Network Flows problem, Ford Fulkerson Method, Maxflow-MinCut Theorem, Edmonds-Karp implementation of Ford Fulkerson. Longest increasing subsequence, Knapsack with and without repetition, Independent set in trees. String Matching Algorithms. Naive String matching, motivation for KMP, Knuth Morris Pratt.
-
-## NP Completeness and Reductions (5 Lectures, 1 Tutorial)
-Classes P, NP, co-NP. NP-Completeness and Reducibility, Cook’s Theorem without proof. Example reductions between problems.
-Coping with NP-completeness (5 Lectures, 0 Tutorials)
-Approximation Algorithms. Set Cover log(n) approximation, 2-approximation for TSP,2-approximation for Vertex Cover. Parameterized Algorithms
+- Review of Problem Solving using computers, Abstraction, Elementary Data Types. Algorithm design- Correctness via Loop invariants as a way of arguing correctness of programs, preconditions, post conditions associated with a statement. (3 lectures)
+- Complexity and Efficiency via model of computation (notion of time and space), mathematical preliminaries, Elementary asymptotics (big-oh, big-omega, and theta notations). (3 lectures)
+- ADT Array -- searching and sorting on arrays:Linear search, binary search on a sorted array. Bubble sort, Insertion sort, Merge Sort and analysis; Emphasis on the comparison based sorting model. Counting sort, Radix sort, bucket sort. (6 lectures)
+- ADT Linked Lists, Stacks, Queues:List manipulation, insertion, deletion, searching a key, reversal of a list, use of recursion to reverse/search. Doubly linked lists and circular linked lists. (3 lectures)
+Stacks and queues as dynamic data structures implemented using linked lists. Analyse the ADT operations when implemented using arrays. (3 lectures)
+- ADT Binary Trees:Tree representation, traversal, application of binary trees in Huffman coding. Introduction to expression trees: traversal vs post/pre/infix notation. Recursive traversal and other tree parameters (depth, height, number of nodes etc.) (4 lectures)
+- ADT Dictionary: Binary search trees, balanced binary search trees - AVL Trees. Hashing - collisions, open and closed hashing, properties of good hash functions. (3+3 lectures)
+- ADT Priority queues: Binary heaps with application to in-place sorting (5 lectures)
+- Graphs: Representations (Matrix and Adjacency List), basic traversal techniques: Depth First Search + Breadth First Search (Stacks and Queues) (5 lectures)
+- (Note : The ADTs will be taught using C++, introducing its syntax as required to explain the concepts (such as objects, classes, encapsulation, operator overloading, polymorphism and basic STL such as string and vector).
 
 
 # Learning Outcomes:
-By the end of the course, the students will be able to :
-- formulate, design and analyze algorithms for problem statements.
-- choose appropriate data structures and algorithms, understand the ADT/libraries, and use it to design algorithms for a specific problem.
-- understand the necessary mathematical abstraction to solve problems.
-- come up with analysis of efficiency and proofs of correctness
-- comprehend and select algorithm design approaches in a problem specific manner.
+After the successful completion of the course the student will be able to :
+- Design correct programs to solve problems.
+- Choose efficient data structures and apply them to solve problems.
+- Analyze the efficiency of programs based on time complexity.
+- Prove the correctness of a program using loop invariants, pre-conditions and post-conditions in programs.

@@ -1,6 +1,6 @@
 ---
 title: "Advanced Data Structures and Algorithms"
-date: 2018-11-18T12:33:46+10:00
+date: 2022-01-07T11:42:34+10:00
 draft: false
 featured: true
 weight: 6
@@ -12,7 +12,7 @@ This course provides foundations of the practical implementation and usage of ad
 The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.
 
 # Important Links
-- [Youtube Playlist]()
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PL54i8TI-dREZtNaEDi6pe5z8Vp6SRKS8G)
 - [Online Quiz]()
 - [HackerRank Contest - 1]()
 - [HackerRank Contest - 2]()
