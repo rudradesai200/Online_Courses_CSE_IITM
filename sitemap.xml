@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/Online_Courses_CSE_IITM/courses/programming/</loc>
+    <loc>/cse/courses/programming/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/lmc/</loc>
+    <loc>/cse/courses/lmc/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/fcsd/</loc>
+    <loc>/cse/courses/fcsd/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/pds/</loc>
+    <loc>/cse/courses/pds/</loc>
     <lastmod>2022-01-07T09:42:34+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/oops/</loc>
+    <loc>/cse/courses/oops/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/adv_dsa/</loc>
+    <loc>/cse/courses/adv_dsa/</loc>
     <lastmod>2022-01-07T11:42:34+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/compiler/</loc>
+    <loc>/cse/courses/compiler/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/pop/</loc>
+    <loc>/cse/courses/pop/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/</loc>
+    <loc>/cse/</loc>
     <lastmod>2022-01-07T11:42:34+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/</loc>
+    <loc>/cse/courses/</loc>
     <lastmod>2022-01-07T11:42:34+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/about/</loc>
+    <loc>/cse/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/categories/</loc>
+    <loc>/cse/categories/</loc>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/404/</loc>
+    <loc>/cse/404/</loc>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/tags/</loc>
+    <loc>/cse/tags/</loc>
   </url>
 </urlset>
