@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 
 # Available Online Courses
 
-Following courses are currently offered online. More courses will be added soon. 
+Please scroll down to view all the courses currently offered online. Each course contains detailed information about the course, lecture links and quizzes for practise. More courses will be added soon. 
 
 Please reach out to [csoffice@cse.iitm.ac.in](mailto:csoffice@cse.iitm.ac.in) in case of query
