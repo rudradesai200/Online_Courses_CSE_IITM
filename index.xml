@@ -6,7 +6,7 @@
     <description>Recent content in Courses on IIT Madras CSE Online Courses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="/Online_Courses_CSE_IITM/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jan 2022 11:42:34 +1000</lastBuildDate><atom:link href="/Online_Courses_CSE_IITM/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Programming</title>
       <link>/Online_Courses_CSE_IITM/courses/programming/</link>
@@ -40,11 +40,12 @@ Objectives The course is intended to provide the foundations of the practical im
     <item>
       <title>Programming and Data Structures</title>
       <link>/Online_Courses_CSE_IITM/courses/pds/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      <pubDate>Fri, 07 Jan 2022 09:42:34 +1000</pubDate>
       
       <guid>/Online_Courses_CSE_IITM/courses/pds/</guid>
-      <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
-Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
+      <description>The objective of the course is to teach programming (with an emphasis on problem solving) and introduce elementary data structures.
+Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. The student should, at a rudimentary level, be able to prove correctness (loop invariants, conditioning, etc) and analyze efficiency (using the `O&#39; notation).
+Important Links  Youtube Playlist Online Quiz HackerRank Contest - 1 HackerRank Contest - 2  Course Contents  Review of Problem Solving using computers, Abstraction, Elementary Data Types.</description>
     </item>
     
     <item>
@@ -60,7 +61,7 @@ Objectives The course is intended to provide the foundations of the practical im
     <item>
       <title>Advanced Data Structures and Algorithms</title>
       <link>/Online_Courses_CSE_IITM/courses/adv_dsa/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <pubDate>Fri, 07 Jan 2022 11:42:34 +1000</pubDate>
       
       <guid>/Online_Courses_CSE_IITM/courses/adv_dsa/</guid>
       <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures

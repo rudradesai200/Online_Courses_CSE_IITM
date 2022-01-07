@@ -99,39 +99,36 @@
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <h1 class="title">Programming and Data Structures</h1>
-      <div class="content"><p>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures</p>
+      <div class="content"><p>The objective of the course is to teach programming (with an emphasis on problem solving) and introduce elementary data structures.</p>
 <h1 id="objectives">Objectives</h1>
-<p>The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</p>
+<p>The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. The student should, at a rudimentary level, be able to prove correctness (loop invariants, conditioning, etc) and analyze efficiency (using the `O' notation).</p>
 <h1 id="important-links">Important Links</h1>
 <ul>
-<li><a href="">Youtube Playlist</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL54i8TI-dREbzNcbJUMlVR86T3CZE2EXW">Youtube Playlist</a></li>
 <li><a href="">Online Quiz</a></li>
 <li><a href="">HackerRank Contest - 1</a></li>
 <li><a href="">HackerRank Contest - 2</a></li>
 </ul>
 <h1 id="course-contents">Course Contents</h1>
-<p>The <a href="http://www.cse.iitm.ac.in/course_details.php?arg=MzM=">content of this course</a> can be viewed in four different threads each telling a different story of the same material. The first one is based on the design paradigms of algorithms, the second one based on task of choosing the right data structure, the third one based on the type of analysis (like worst case, amortized etc) that one would like to do and the fourth one based on the domain from which the algorithmic problems come from.</p>
-<p>We will follow the first one and describe the thread relates to the other views too, during the course. Here is the outline, based on this view.</p>
-<h2 id="introduction-and-review-of-basics-5-lectures-1-tutorial">Introduction and Review of Basics (5 Lectures, 1 Tutorial)</h2>
-<p>Algorithms, Programs, Correctness, Efficiency. The major challenges. A quick recap of the basics. Asymptotic notation, Big O, Theta, Omega, little o, Recurrence relations, Master theorem. Algorithmic upper bounds, lower bounds, adversarial arguments.</p>
-<h2 id="divide-and-conquer-5-lectures-1-tutorial">Divide and Conquer (5 Lectures, 1 Tutorial)</h2>
-<p>Simple examples of Divide and Conquer Technique. Analysis. Sorting Algorithms, Lower Bounds. Median in Linear time. Maximum Sub-array and Closest Pair of points. Decrease and Conquer variants.</p>
-<h2 id="greedy-technique-10-lectures-3-tutorials">Greedy Technique (10 Lectures, 3 Tutorials)</h2>
-<p>Minimum Spanning Tree problem, Prims and Kruskals algorithms. Improving Kruskals algorithm using Union-Find data structure (log*(n) analysis). Splay Trees amortized analysis, Shortest Paths in Graphs, quick recall of BFS as shortest paths for unweighted graphs, Dijkstra’s algorithm, Improving Dijsktra’s algorithm with Fibonacci heaps.</p>
-<h2 id="dynamic-programming-12-lectures-3-tutorials-">Dynamic Programming (12 Lectures, 3 Tutorials) :</h2>
-<p>Bellman Ford Algorithm. Network Flows problem, Ford Fulkerson Method, Maxflow-MinCut Theorem, Edmonds-Karp implementation of Ford Fulkerson. Longest increasing subsequence, Knapsack with and without repetition, Independent set in trees. String Matching Algorithms. Naive String matching, motivation for KMP, Knuth Morris Pratt.</p>
-<h2 id="np-completeness-and-reductions-5-lectures-1-tutorial">NP Completeness and Reductions (5 Lectures, 1 Tutorial)</h2>
-<p>Classes P, NP, co-NP. NP-Completeness and Reducibility, Cook’s Theorem without proof. Example reductions between problems.
-Coping with NP-completeness (5 Lectures, 0 Tutorials)
-Approximation Algorithms. Set Cover log(n) approximation, 2-approximation for TSP,2-approximation for Vertex Cover. Parameterized Algorithms</p>
-<h1 id="learning-outcomes">Learning Outcomes:</h1>
-<p>By the end of the course, the students will be able to :</p>
 <ul>
-<li>formulate, design and analyze algorithms for problem statements.</li>
-<li>choose appropriate data structures and algorithms, understand the ADT/libraries, and use it to design algorithms for a specific problem.</li>
-<li>understand the necessary mathematical abstraction to solve problems.</li>
-<li>come up with analysis of efficiency and proofs of correctness</li>
-<li>comprehend and select algorithm design approaches in a problem specific manner.</li>
+<li>Review of Problem Solving using computers, Abstraction, Elementary Data Types. Algorithm design- Correctness via Loop invariants as a way of arguing correctness of programs, preconditions, post conditions associated with a statement. (3 lectures)</li>
+<li>Complexity and Efficiency via model of computation (notion of time and space), mathematical preliminaries, Elementary asymptotics (big-oh, big-omega, and theta notations). (3 lectures)</li>
+<li>ADT Array &ndash; searching and sorting on arrays:Linear search, binary search on a sorted array. Bubble sort, Insertion sort, Merge Sort and analysis; Emphasis on the comparison based sorting model. Counting sort, Radix sort, bucket sort. (6 lectures)</li>
+<li>ADT Linked Lists, Stacks, Queues:List manipulation, insertion, deletion, searching a key, reversal of a list, use of recursion to reverse/search. Doubly linked lists and circular linked lists. (3 lectures)
+Stacks and queues as dynamic data structures implemented using linked lists. Analyse the ADT operations when implemented using arrays. (3 lectures)</li>
+<li>ADT Binary Trees:Tree representation, traversal, application of binary trees in Huffman coding. Introduction to expression trees: traversal vs post/pre/infix notation. Recursive traversal and other tree parameters (depth, height, number of nodes etc.) (4 lectures)</li>
+<li>ADT Dictionary: Binary search trees, balanced binary search trees - AVL Trees. Hashing - collisions, open and closed hashing, properties of good hash functions. (3+3 lectures)</li>
+<li>ADT Priority queues: Binary heaps with application to in-place sorting (5 lectures)</li>
+<li>Graphs: Representations (Matrix and Adjacency List), basic traversal techniques: Depth First Search + Breadth First Search (Stacks and Queues) (5 lectures)</li>
+<li>(Note : The ADTs will be taught using C++, introducing its syntax as required to explain the concepts (such as objects, classes, encapsulation, operator overloading, polymorphism and basic STL such as string and vector).</li>
+</ul>
+<h1 id="learning-outcomes">Learning Outcomes:</h1>
+<p>After the successful completion of the course the student will be able to :</p>
+<ul>
+<li>Design correct programs to solve problems.</li>
+<li>Choose efficient data structures and apply them to solve problems.</li>
+<li>Analyze the efficiency of programs based on time complexity.</li>
+<li>Prove the correctness of a program using loop invariants, pre-conditions and post-conditions in programs.</li>
 </ul>
 </div>
     </div>
