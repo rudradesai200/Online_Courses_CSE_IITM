@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/Online_Courses_CSE_IITM/courses/programming/</loc>
+    <loc>/courses/programming/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/lmc/</loc>
+    <loc>/courses/lmc/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/fcsd/</loc>
+    <loc>/courses/fcsd/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/pds/</loc>
+    <loc>/courses/pds/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/oops/</loc>
+    <loc>/courses/oops/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/adv_dsa/</loc>
+    <loc>/courses/adv_dsa/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/compiler/</loc>
+    <loc>/courses/compiler/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/pop/</loc>
+    <loc>/courses/pop/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/</loc>
+    <loc>/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/courses/</loc>
+    <loc>/courses/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/404/</loc>
+    <loc>/404/</loc>
   </url><url>
-    <loc>/Online_Courses_CSE_IITM/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
