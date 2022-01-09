@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 
 # Online courses @ CSE IIT Madras
 
-This website contains detailed information about online courses offered by the CSE Department at IIT Madras. Each course page contains information about the course and useful links such as the youtube playlist, online quizzes and HackerRank contest links. 
+Please scroll down to view all the courses currently offered online. Each course contains detailed information about the course, lecture links and quizzes for practise. More courses will be added soon. 
 
-Please visit the [Courses](/courses/) page to know more.
+Please reach out to [csoffice@cse.iitm.ac.in](mailto:csoffice@cse.iitm.ac.in) in case of query

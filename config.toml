@@ -1,4 +1,4 @@
-baseURL = "/Online_Courses_CSE_IITM/"
+baseURL = "/"
 languageCode = "en-us"
 title = "IIT Madras CSE Online Courses"
 themesDir = "themes"
@@ -30,10 +30,10 @@ theme = "hugo-serif-theme"
 
 [menu]
   # Main Menu
-  [[menu.main]]
-    name = "Courses"
-    url = "/courses/"
-      weight = 1
+  # [[menu.main]]
+  #   name = "Courses"
+  #   url = "/courses/"
+  #     weight = 1
 
   # [[menu.main]]
   #     name = "Team"
