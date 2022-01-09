@@ -6,7 +6,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Online courses @ CSE IIT Madras
+# Online courses
+## by CSE Dept, IIT Madras
 
 Please scroll down to view all the courses currently offered online. Each course contains detailed information about the course, lecture links and quizzes for practise. More courses will be added soon. 
 

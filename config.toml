@@ -1,6 +1,6 @@
 baseURL = "/cse/"
 languageCode = "en-us"
-title = "IIT Madras CSE Online Courses"
+title = "Online CSE Courses @ IIT Madras"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
@@ -19,11 +19,11 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/cse-iitm.svg"
     mobile_height = "36px"
     desktop = "images/logo/cse-iitm.svg"
     desktop_height = "80px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "CSE Dept, IIT Madras"
 
   [params.footer]
     copyright_text = 'Theme design by <a class="zerostatic" href="https://www.zerostatic.io">zerostatic</a> <br>Made with <b>love</b> by <a href="https://www.rudradesai.in/">Rudra Desai</a>'

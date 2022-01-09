@@ -4707,7 +4707,7 @@ body {
   font-size: 16px;
   line-height: 1.2;
   font-family: Helvetica, Arial, sans-serif, -apple-system;
-  zoom: 80%; }
+  zoom: 75%; }
   @media (min-width: 768px) {
     body {
       font-size: 16px;
