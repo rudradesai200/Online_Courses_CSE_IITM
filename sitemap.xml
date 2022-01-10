@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/cse/services/programming/</loc>
+    <loc>/services/programming/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/cse/services/lmc/</loc>
+    <loc>/services/lmc/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>/cse/services/fcsd/</loc>
+    <loc>/services/fcsd/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
-    <loc>/cse/services/pds/</loc>
+    <loc>/services/pds/</loc>
     <lastmod>2022-01-07T09:42:34+10:00</lastmod>
   </url><url>
-    <loc>/cse/services/oops/</loc>
+    <loc>/services/oops/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url><url>
-    <loc>/cse/services/adv_dsa/</loc>
+    <loc>/services/adv_dsa/</loc>
     <lastmod>2022-01-07T11:42:34+10:00</lastmod>
   </url><url>
-    <loc>/cse/services/compiler/</loc>
+    <loc>/services/compiler/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/cse/services/pop/</loc>
+    <loc>/services/pop/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/cse/</loc>
+    <loc>/</loc>
     <lastmod>2022-01-07T11:42:34+10:00</lastmod>
   </url><url>
-    <loc>/cse/services/</loc>
+    <loc>/services/</loc>
     <lastmod>2022-01-07T11:42:34+10:00</lastmod>
   </url><url>
-    <loc>/cse/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>/cse/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>/cse/404/</loc>
+    <loc>/404/</loc>
   </url><url>
-    <loc>/cse/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
