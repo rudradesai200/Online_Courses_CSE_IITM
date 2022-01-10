@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on Online CSE Courses @ IIT Madras</title>
-    <link>/</link>
+    <link>/cse/</link>
     <description>Recent content in Courses on Online CSE Courses @ IIT Madras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jan 2022 11:42:34 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jan 2022 11:42:34 +1000</lastBuildDate><atom:link href="/cse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Programming</title>
-      <link>/services/programming/</link>
+      <link>/cse/services/programming/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/services/programming/</guid>
+      <guid>/cse/services/programming/</guid>
       <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
 Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
     </item>
     
     <item>
       <title>Languages, Machines and Computation</title>
-      <link>/services/lmc/</link>
+      <link>/cse/services/lmc/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>/services/lmc/</guid>
+      <guid>/cse/services/lmc/</guid>
       <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
 Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
     </item>
     
     <item>
       <title>Foundations of Computer System Design</title>
-      <link>/services/fcsd/</link>
+      <link>/cse/services/fcsd/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>/services/fcsd/</guid>
+      <guid>/cse/services/fcsd/</guid>
       <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
 Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
     </item>
     
     <item>
       <title>Programming and Data Structures</title>
-      <link>/services/pds/</link>
+      <link>/cse/services/pds/</link>
       <pubDate>Fri, 07 Jan 2022 09:42:34 +1000</pubDate>
       
-      <guid>/services/pds/</guid>
+      <guid>/cse/services/pds/</guid>
       <description>The objective of the course is to teach programming (with an emphasis on problem solving) and introduce elementary data structures.
 Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. The student should, at a rudimentary level, be able to prove correctness (loop invariants, conditioning, etc) and analyze efficiency (using the `O&#39; notation).
 Important Links  Youtube Playlist Online Quiz HackerRank Contest - 1 HackerRank Contest - 2  Course Contents  Review of Problem Solving using computers, Abstraction, Elementary Data Types.</description>
@@ -50,50 +50,50 @@ Important Links  Youtube Playlist Online Quiz HackerRank Contest - 1 HackerRank 
     
     <item>
       <title>Object Oriented Lab</title>
-      <link>/services/oops/</link>
+      <link>/cse/services/oops/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>/services/oops/</guid>
+      <guid>/cse/services/oops/</guid>
       <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
 Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
     </item>
     
     <item>
       <title>Advanced Data Structures and Algorithms</title>
-      <link>/services/adv_dsa/</link>
+      <link>/cse/services/adv_dsa/</link>
       <pubDate>Fri, 07 Jan 2022 11:42:34 +1000</pubDate>
       
-      <guid>/services/adv_dsa/</guid>
+      <guid>/cse/services/adv_dsa/</guid>
       <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
 Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
     </item>
     
     <item>
       <title>Compiler Design</title>
-      <link>/services/compiler/</link>
+      <link>/cse/services/compiler/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/services/compiler/</guid>
+      <guid>/cse/services/compiler/</guid>
       <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
 Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
     </item>
     
     <item>
       <title>Paradigms of Programming</title>
-      <link>/services/pop/</link>
+      <link>/cse/services/pop/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/services/pop/</guid>
+      <guid>/cse/services/pop/</guid>
       <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
 Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>/cse/about/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/cse/about/</guid>
       <description>Online Courses initiative by IIT Madras Our goal is to provide high quality education to the masses. It has been estimated that the IITs have an acceptance rate of less than 2%, so only a small portion of students make the cut. Only students who enter the hallowed halls of academia are able to gain access to pertinent content. But there are several talented students, from local colleges, whose talent needs to be fostered because they cannot gain access to quality education.</description>
     </item>
     
