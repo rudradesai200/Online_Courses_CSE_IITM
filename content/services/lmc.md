@@ -6,44 +6,24 @@ draft: false
 weight: 2
 ---
 
-This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
+The objective of the course is to introduce students to the foundations of computation.
 
 # Objectives
-The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.
+The objective of the course is to introduce students to the foundations of computation. We ask fundamental questions like "What does it mean for a function to be computed?", "Are all functions computable?", "Is there a way to measure the hardness of computing a function?" We will see that the above questions are deep, and in the quest for answering them we will learn some fundamental concepts such as state, transition, reduction, decidability.
 
 # Important Links
-- [Youtube Playlist]()
-- [Online Quiz]()
-- [HackerRank Contest - 1]()
-- [HackerRank Contest - 2]()
+- <a href="https://www.youtube.com/playlist?list=PL54i8TI-dREZaIYsZgH1Go22eSLLHg_Bw" target="_blank">Youtube Playlist</a>
+- <a href="https://forms.gle/wk9dLynYGD6EhhRk6" target="_blank">Online Quiz</a>
+- <a href="https://www.hackerrank.com/contests/icode-2015-week-one/challenges/elementary-cellular-automaton-1" target="_blank">HackerRank Contest - 1</a>
+- <a href="https://www.hackerrank.com/contests/regex-practice-1/challenges" target="_blank">HackerRank Contest - 2</a>
 
-# Course Contents
-The [content of this course](http://www.cse.iitm.ac.in/course_details.php?arg=MzM=) can be viewed in four different threads each telling a different story of the same material. The first one is based on the design paradigms of algorithms, the second one based on task of choosing the right data structure, the third one based on the type of analysis (like worst case, amortized etc) that one would like to do and the fourth one based on the domain from which the algorithmic problems come from.
+# Textbooks and References.
+The textbooks for the course are Michael Sipser's "Introduction to the Theory of Computation" and "Automata and Computability" by Dexter Kozen. The library should have multiple copies. Slides used in last class are here. I also found some very nice slides here.
 
-We will follow the first one and describe the thread relates to the other views too, during the course. Here is the outline, based on this view.
+# Syllabus
+The topics are broadly categorized as follows.
+- Finite Automata & Regular Languages (Ch 1 of Sipser, Ch 13-16 of Kozen):Introduction to automata theory, languages and computational problems. Finite state automata, Regular Languages. Deterministic and Non-deterministic finite automata, Subset construction. Regular Expressions, Pattern Matching, pumping lemma, DFA state minimization, Myhill Nerode relations, Myhill Nerode theorem.
 
-## Introduction and Review of Basics (5 Lectures, 1 Tutorial)
-Algorithms, Programs, Correctness, Efficiency. The major challenges. A quick recap of the basics. Asymptotic notation, Big O, Theta, Omega, little o, Recurrence relations, Master theorem. Algorithmic upper bounds, lower bounds, adversarial arguments.
+- Context Free Languages and Push Down Automata (Ch 2 of Sipser and Ch 20 and 27 of Kozen) :Context free grammars - Derivation trees and ambiguity -Chomsky normal form - Pushdown automata - Acceptance by empty store and final state - Equivalence between push-down automata and context-free grammars - Pumping lemma - PAREN language and its grammar - CYK algorithm - Closure properties of CFL.
 
-## Divide and Conquer (5 Lectures, 1 Tutorial)
-Simple examples of Divide and Conquer Technique. Analysis. Sorting Algorithms, Lower Bounds. Median in Linear time. Maximum Sub-array and Closest Pair of points. Decrease and Conquer variants.
-
-## Greedy Technique (10 Lectures, 3 Tutorials)
-Minimum Spanning Tree problem, Prims and Kruskals algorithms. Improving Kruskals algorithm using Union-Find data structure (log*(n) analysis). Splay Trees amortized analysis, Shortest Paths in Graphs, quick recall of BFS as shortest paths for unweighted graphs, Dijkstra’s algorithm, Improving Dijsktra’s algorithm with Fibonacci heaps.
-
-## Dynamic Programming (12 Lectures, 3 Tutorials) :
-Bellman Ford Algorithm. Network Flows problem, Ford Fulkerson Method, Maxflow-MinCut Theorem, Edmonds-Karp implementation of Ford Fulkerson. Longest increasing subsequence, Knapsack with and without repetition, Independent set in trees. String Matching Algorithms. Naive String matching, motivation for KMP, Knuth Morris Pratt.
-
-## NP Completeness and Reductions (5 Lectures, 1 Tutorial)
-Classes P, NP, co-NP. NP-Completeness and Reducibility, Cook’s Theorem without proof. Example reductions between problems.
-Coping with NP-completeness (5 Lectures, 0 Tutorials)
-Approximation Algorithms. Set Cover log(n) approximation, 2-approximation for TSP,2-approximation for Vertex Cover. Parameterized Algorithms
-
-
-# Learning Outcomes:
-By the end of the course, the students will be able to :
-- formulate, design and analyze algorithms for problem statements.
-- choose appropriate data structures and algorithms, understand the ADT/libraries, and use it to design algorithms for a specific problem.
-- understand the necessary mathematical abstraction to solve problems.
-- come up with analysis of efficiency and proofs of correctness
-- comprehend and select algorithm design approaches in a problem specific manner.
+- Turing machines & Computability (Ch 3, 4 and 5 of Sipser): Techniques for Turing machine construction - Generalized and restricted versions equivalent to the basic model - Universal Turing machine - Turing recognizable and decidable - linear bounded automata. Decidability; Post's correspondence problem; Rice's theorem; decidability of membership, emptiness and equivalence problems of languages, reductions.

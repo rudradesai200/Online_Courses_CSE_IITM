@@ -10,13 +10,13 @@ The objective of the course is to teach programming (with an emphasis on problem
 
 
 # Objectives
-The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. The student should, at a rudimentary level, be able to prove correctness (loop invariants, conditioning, etc) and analyze efficiency (using the `O' notation).
+The objective of the course is to teach programming (with an emphasis on problem solving) and introduce elementary data structures. The student should, at a rudimentary level, be able to prove correctness (loop invariants, conditioning, etc) and analyze efficiency (using the `O' notation).
 
 # Important Links
-- [Youtube Playlist](https://www.youtube.com/playlist?list=PL54i8TI-dREbzNcbJUMlVR86T3CZE2EXW)
-- [Online Quiz]()
-- [HackerRank Contest - 1]()
-- [HackerRank Contest - 2]()
+- <a href="https://www.youtube.com/watch?v=Zth8TMKDFXA&list=PL54i8TI-dREbzNcbJUMlVR86T3CZE2EXW" target="_blank">Youtube Playlist</a>
+- <a href="https://docs.google.com/forms/d/1T5AhgAaAIlhL8Q9nDhmEQ7RHJTzGo66zCnxx6TAOwUI/edit" target="_blank">Online Quiz</a>
+- <a href="https://www.hackerrank.com/contests/hourrank-23/challenges" target="_blank">HackerRank Contest - 1</a>
+- <a href="https://www.hackerrank.com/contests/101hack53/challenges" target="_blank">HackerRank Contest - 2</a>
 
 # Course Contents
 - Review of Problem Solving using computers, Abstraction, Elementary Data Types. Algorithm design- Correctness via Loop invariants as a way of arguing correctness of programs, preconditions, post conditions associated with a statement. (3 lectures)
@@ -37,3 +37,12 @@ After the successful completion of the course the student will be able to :
 - Choose efficient data structures and apply them to solve problems.
 - Analyze the efficiency of programs based on time complexity.
 - Prove the correctness of a program using loop invariants, pre-conditions and post-conditions in programs.
+
+# Text Books:
+- Data Structures and Algorithm Analysis in C++, by Mark Allen Weiss (Pearson 2007).
+
+# Reference Books:
+- Data structures and Algorithms in C++ -- by Adam Drozdek (1994 2001).
+- How to solve it by Computer -- by R G Dromey (PHI 1982, Paperback 2008).
+- Fundamentals of Data Structures in C -- by Horowitz, Sahni and Anderson-Freed (Silicon Press 2007).
+- Data Structure Using C and C++ -- by Y. Langsam, M. J. Augenstein and A. N. Tanenbaum (Pearson Education, 2nd Edition, 2015).

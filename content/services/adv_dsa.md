@@ -12,10 +12,10 @@ This course provides foundations of the practical implementation and usage of ad
 The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.
 
 # Important Links
-- [Youtube Playlist](https://www.youtube.com/playlist?list=PL54i8TI-dREZtNaEDi6pe5z8Vp6SRKS8G)
-- [Online Quiz]()
-- [HackerRank Contest - 1]()
-- [HackerRank Contest - 2]()
+- <a href="https://www.youtube.com/playlist?list=PL54i8TI-dREZtNaEDi6pe5z8Vp6SRKS8G" target="_blank">Youtube Playlist</a>
+- <a href="https://forms.gle/QisYAS5iuKPT5bnJ8" target="_blank">Online Quiz</a>
+- <a href="https://www.hackerrank.com/competitions/hack-the-interview-vii" target="_blank">HackerRank Contest - 1</a>
+- <a href="https://www.hackerrank.com/contests/hack-the-interview-ii-global/challenges" target="_blank">HackerRank Contest - 2</a>
 
 # Course Contents
 The [content of this course](http://www.cse.iitm.ac.in/course_details.php?arg=MzM=) can be viewed in four different threads each telling a different story of the same material. The first one is based on the design paradigms of algorithms, the second one based on task of choosing the right data structure, the third one based on the type of analysis (like worst case, amortized etc) that one would like to do and the fourth one based on the domain from which the algorithmic problems come from.
