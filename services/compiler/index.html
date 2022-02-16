@@ -38,6 +38,12 @@
   <ul>
     
     
+    <li class="menu-item-home">
+      <a href="/cse/">
+        <span>Home</span>
+      </a>
+    </li>
+    
     <li class="menu-item-about">
       <a href="/cse/about/">
         <span>About</span>
@@ -58,6 +64,15 @@
     <div id="main-menu" class="main-menu">
   <ul>
     
+    
+    
+    
+    <li class="menu-item-home ">
+      <a href="/cse/">
+        
+        <span>Home</span>
+      </a>
+    </li>
     
     
     
@@ -85,39 +100,32 @@
     <div class="col-12 col-md-8">
       <div class="service service-single">
         <h1 class="title">Compiler Design</h1>
-        <div class="content"><p>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures</p>
-<h1 id="objectives">Objectives</h1>
-<p>The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</p>
+        <div class="content"><p>The objectives are to teach students a understanding of some of the standard passes in a general purpose compiler and to provide hands-on experience in implementing a compiler for a subset of a high-level language such as Java.</p>
 <h1 id="important-links">Important Links</h1>
 <ul>
-<li><a href="">Youtube Playlist</a></li>
-<li><a href="">Online Quiz</a></li>
-<li><a href="">HackerRank Contest - 1</a></li>
-<li><a href="">HackerRank Contest - 2</a></li>
+<li><a href="https://www.youtube.com/watch?v=dyAwtsrg2us&list=PL54i8TI-dREaHgsBFNalWnz-bC9CZkOBb" target="_blank">Youtube Playlist</a></li>
+<li><a href="https://docs.google.com/forms/d/17ryBgjtQNdCB0yBFzDf1iuokh_4QMGEDNyIHB9Sr3nQ/edit?usp=sharing" target="_blank">Online Quiz</a></li>
+<li><a href="https://www.hackerrank.com/contests/regex-practice-1/" target="_blank">HackerRank Contest - 1</a></li>
+<li><a href="https://www.hackerrank.com/contests/regular-expresso/" target="_blank">HackerRank Contest - 2</a></li>
 </ul>
-<h1 id="course-contents">Course Contents</h1>
-<p>The <a href="http://www.cse.iitm.ac.in/course_details.php?arg=MzM=">content of this course</a> can be viewed in four different threads each telling a different story of the same material. The first one is based on the design paradigms of algorithms, the second one based on task of choosing the right data structure, the third one based on the type of analysis (like worst case, amortized etc) that one would like to do and the fourth one based on the domain from which the algorithmic problems come from.</p>
-<p>We will follow the first one and describe the thread relates to the other views too, during the course. Here is the outline, based on this view.</p>
-<h2 id="introduction-and-review-of-basics-5-lectures-1-tutorial">Introduction and Review of Basics (5 Lectures, 1 Tutorial)</h2>
-<p>Algorithms, Programs, Correctness, Efficiency. The major challenges. A quick recap of the basics. Asymptotic notation, Big O, Theta, Omega, little o, Recurrence relations, Master theorem. Algorithmic upper bounds, lower bounds, adversarial arguments.</p>
-<h2 id="divide-and-conquer-5-lectures-1-tutorial">Divide and Conquer (5 Lectures, 1 Tutorial)</h2>
-<p>Simple examples of Divide and Conquer Technique. Analysis. Sorting Algorithms, Lower Bounds. Median in Linear time. Maximum Sub-array and Closest Pair of points. Decrease and Conquer variants.</p>
-<h2 id="greedy-technique-10-lectures-3-tutorials">Greedy Technique (10 Lectures, 3 Tutorials)</h2>
-<p>Minimum Spanning Tree problem, Prims and Kruskals algorithms. Improving Kruskals algorithm using Union-Find data structure (log*(n) analysis). Splay Trees amortized analysis, Shortest Paths in Graphs, quick recall of BFS as shortest paths for unweighted graphs, Dijkstra’s algorithm, Improving Dijsktra’s algorithm with Fibonacci heaps.</p>
-<h2 id="dynamic-programming-12-lectures-3-tutorials-">Dynamic Programming (12 Lectures, 3 Tutorials) :</h2>
-<p>Bellman Ford Algorithm. Network Flows problem, Ford Fulkerson Method, Maxflow-MinCut Theorem, Edmonds-Karp implementation of Ford Fulkerson. Longest increasing subsequence, Knapsack with and without repetition, Independent set in trees. String Matching Algorithms. Naive String matching, motivation for KMP, Knuth Morris Pratt.</p>
-<h2 id="np-completeness-and-reductions-5-lectures-1-tutorial">NP Completeness and Reductions (5 Lectures, 1 Tutorial)</h2>
-<p>Classes P, NP, co-NP. NP-Completeness and Reducibility, Cook’s Theorem without proof. Example reductions between problems.
-Coping with NP-completeness (5 Lectures, 0 Tutorials)
-Approximation Algorithms. Set Cover log(n) approximation, 2-approximation for TSP,2-approximation for Vertex Cover. Parameterized Algorithms</p>
-<h1 id="learning-outcomes">Learning Outcomes:</h1>
-<p>By the end of the course, the students will be able to :</p>
+<h1 id="topics">Topics:</h1>
 <ul>
-<li>formulate, design and analyze algorithms for problem statements.</li>
-<li>choose appropriate data structures and algorithms, understand the ADT/libraries, and use it to design algorithms for a specific problem.</li>
-<li>understand the necessary mathematical abstraction to solve problems.</li>
-<li>come up with analysis of efficiency and proofs of correctness</li>
-<li>comprehend and select algorithm design approaches in a problem specific manner.</li>
+<li>Introduction to language translators and overview of the compilation process.</li>
+<li>Lexical analysis: specification of tokens, token recognition, conflict resolution.</li>
+<li>Parsing: Overview of CFG, Parse trees and derivations, left recursion, left factoring, top-down parsing, LALR parsing, conflict resolution, dangling-else.</li>
+<li>Syntax directed translation. Semantic analysis, Type checking, intermediate code generation.</li>
+<li>Runtime environments: activation records, heap management
+Code optimization: basic blocks, liveness, register allocation.</li>
+<li>Advanced topics: Overview of machine dependent and independent optimizations.</li>
+</ul>
+<h1 id="textbooks">Textbook(s)</h1>
+<ul>
+<li>Compilers: Principles, Techniques, and Tools, Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey D. Ullman, Addison-Wesley, 2007</li>
+<li>Modern compiler implementation in Java, Second Edition, Andrew W. Appel, Jens Palsberg, Cambridge University Press, 2002.</li>
+</ul>
+<h1 id="references">References</h1>
+<ul>
+<li>Computer Organization and Design: The Hardware/Software Interface, David Patterson and John Hennessy, Morgan Kaufmann, 1998</li>
 </ul>
 </div>
       </div>

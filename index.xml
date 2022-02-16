@@ -13,8 +13,8 @@
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>/cse/services/programming/</guid>
-      <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
-Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
+      <description>The computer is often a very handy tool when solving complex technical problems in engineering and scientific explorations. Programming a computer is a fundamental task in finding solutions to such problems.
+Objectives This course is being offered in order to train the undergraduate students in IIT Madras (from various engineering and science departments) in the fundamentals of programming. The course aims to provide exposure to problem-solving through programming. It aims to train the student to the basic concepts of the C-programming language.</description>
     </item>
     
     <item>
@@ -23,8 +23,8 @@ Objectives The course is intended to provide the foundations of the practical im
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
       <guid>/cse/services/lmc/</guid>
-      <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
-Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
+      <description>The objective of the course is to introduce students to the foundations of computation.
+Objectives The objective of the course is to introduce students to the foundations of computation. We ask fundamental questions like &amp;ldquo;What does it mean for a function to be computed?&amp;rdquo;, &amp;ldquo;Are all functions computable?&amp;rdquo;, &amp;ldquo;Is there a way to measure the hardness of computing a function?&amp;rdquo; We will see that the above questions are deep, and in the quest for answering them we will learn some fundamental concepts such as state, transition, reduction, decidability.</description>
     </item>
     
     <item>
@@ -33,8 +33,8 @@ Objectives The course is intended to provide the foundations of the practical im
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>/cse/services/fcsd/</guid>
-      <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
-Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
+      <description>This course is intended to understand the different components of a computer system, namely, digital hardware, the microarchitecture, the operating systems and the compilers, and their interconnection.
+Important Links  Youtube Playlist Online Quiz HackerRank Contest - 1 HackerRank Contest - 2  Course Contents  Introduction: Functional components of a computer system, Interaction among functional components. Design of Arithmetic and Logic Unit: Digital logic gates, Boolean algebra, Simplification of Boolean Expressions, Combinational logic circuits – Encoder, Decoder, Multiplexer and Demultiplexer; Representation of integer data, Integer adders, Integer multipliers, Design of integer unit, Floating point representation of real data, Floating-point adder/subtractor, Floating-point multiplier, Design of Floating point unit.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@ Objectives The course is intended to provide the foundations of the practical im
       
       <guid>/cse/services/pds/</guid>
       <description>The objective of the course is to teach programming (with an emphasis on problem solving) and introduce elementary data structures.
-Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. The student should, at a rudimentary level, be able to prove correctness (loop invariants, conditioning, etc) and analyze efficiency (using the `O&#39; notation).
+Objectives The objective of the course is to teach programming (with an emphasis on problem solving) and introduce elementary data structures. The student should, at a rudimentary level, be able to prove correctness (loop invariants, conditioning, etc) and analyze efficiency (using the `O&#39; notation).
 Important Links  Youtube Playlist Online Quiz HackerRank Contest - 1 HackerRank Contest - 2  Course Contents  Review of Problem Solving using computers, Abstraction, Elementary Data Types.</description>
     </item>
     
@@ -54,8 +54,8 @@ Important Links  Youtube Playlist Online Quiz HackerRank Contest - 1 HackerRank 
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
       <guid>/cse/services/oops/</guid>
-      <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
-Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
+      <description>The course objectives include teaching the fundamentals of object-oriented concepts and programming with implementation
+Important Links  Youtube Playlist Online Quiz HackerRank Contest - 1 HackerRank Contest - 2  Course Topics  Object Oriented Programming &amp;ndash; Objects, Operator Overloading, Function and Object Polymorphism, Inheritance, Abstraction, Function Pointers, File I/O. Data Structures and Algorithms Implementation and Analysis based on topics covered in CS2800. The following list is not exhaustive &amp;ndash; Stacks, Queues, Searching and Sorting (Internal and External) Graph Algorithms, Trees (including Balanced and In-Memory/In-Disk Storage), Hash Tables, Dynamic Programming, Matrix Operations (including Multiplication, Transpose, Inverse, Gaussian Elimination).</description>
     </item>
     
     <item>
@@ -74,8 +74,8 @@ Objectives The course is intended to provide the foundations of the practical im
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>/cse/services/compiler/</guid>
-      <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
-Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
+      <description>The objectives are to teach students a understanding of some of the standard passes in a general purpose compiler and to provide hands-on experience in implementing a compiler for a subset of a high-level language such as Java.
+Important Links  Youtube Playlist Online Quiz HackerRank Contest - 1 HackerRank Contest - 2  Topics:  Introduction to language translators and overview of the compilation process. Lexical analysis: specification of tokens, token recognition, conflict resolution.</description>
     </item>
     
     <item>
@@ -84,8 +84,8 @@ Objectives The course is intended to provide the foundations of the practical im
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>/cse/services/pop/</guid>
-      <description>This course provides foundations of the practical implementation and usage of advanced Algorithms and Data Structures
-Objectives The course is intended to provide the foundations of the practical implementation and usage of Algorithms and Data Structures. One objective is to ensure that the student evolves into a competent programmer capable of designing and analyzing implementations of algorithms and data structures for different kinds of problems. The second objective is to expose the student to the algorithm analysis techniques, to the theory of reductions, and to the classification of problems into complexity classes like NP.</description>
+      <description>Paradigm can also be termed as method to solve some problem or do some task. Programming paradigm is an approach to solve problem using some programming language or also we can say it is a method to solve a problem using tools and techniques that are available to us following some approach.
+Objectives The course gives an overview of programming paradigms. It deals with the concepts common in various imperative programming languages.</description>
     </item>
     
     <item>
