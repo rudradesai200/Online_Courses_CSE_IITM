@@ -31,7 +31,7 @@ theme = "hugo-serif-theme"
     alt = "CSE Dept, IIT Madras"
 
   [params.footer]
-    copyright_text = 'Theme design by <a class="zerostatic" href="https://www.zerostatic.io">zerostatic</a> <br>Made with <b>love</b> by <a href="https://www.rudradesai.in/">Rudra Desai</a>'
+    copyright_text = 'Theme design by <a class="zerostatic" href="https://www.zerostatic.io">zerostatic</a> <br>Made with <b>love</b> by <a href="https://www.rudrad.in/">Rudra Desai</a>'
 
 [menu]
   # Main Menu

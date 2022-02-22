@@ -4,8 +4,8 @@ Our goal is to provide high quality education to the masses. It has been estimat
 Online MOOCs in India such as Swayam and NPTEL are doing their part in breaking these barriers and have become the pioneers in this space. We are not in competition with them but to aid and further their effectiveness. This will be accomplished by making available additional content in the form of the complete course material taken from the IIT curriculum along with all the relevant material. This course content can be accessed by the students from local colleges in both the urban and the rural areas. The noble cause of imparting education can be achieved via this platform – which will eventually create well-qualified engineers.
 
 # Contributors
-- **Webpage**: [Rudra Desai](https://rudradesai.in/)
-- **Course Assessment**: [Kshitij Deogade](https://www.linkedin.com/in/kshitij-deogade-500364154/?originalSubdomain=in), Mani Chandana, [Rudra Desai](https://rudradesai.in/), Sravankumar Reddy
+- **Webpage**: [Rudra Desai](https://rudrad.in/)
+- **Course Assessment**: [Kshitij Deogade](https://www.linkedin.com/in/kshitij-deogade-500364154/?originalSubdomain=in), Mani Chandana, [Rudra Desai](https://rudrad.in/), Sravankumar Reddy
 - **YouTube Channel**: [Dileep Pattipati](https://scholar.google.com/citations?user=nQLh4CwAAAAJ)
 - **Coordination**: [Faculty members](http://www.cse.iitm.ac.in/listpeople.php?arg=MSQw) of CSE Department, IIT Madras
 
